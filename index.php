@@ -42,8 +42,9 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Kategori <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Data Sementara <span class="caret"></span></a>
           <ul class="dropdown-menu">
+            <li><a href="view/datacustomer.php">Lihat Data Customer Sementara</a></li>
             <li><a href="#">Fashion Pria</a></li>
             <li><a href="#">Fashion Wanita</a></li>
             <li><a href="#">Fashion Anak - Anak</a></li>
