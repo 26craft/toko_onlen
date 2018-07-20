@@ -42,8 +42,7 @@
                       <td><?php echo $data['password']?></td>
                       <td><?php echo $data['no_tlp']?></td>
                       <td><a href="../config/deletecustomer.php?d=<?= $data['id_customer'] ?>">Hapus</a>
-                          || <a href="edit.php?d=<?= $data['id_customer'] ?>"
-                            data-toggle="modal" data-target="#exampleModal">Edit</a>
+                          || <a href="../view/edit.php?d=<?= $data['id_customer'] ?>">Edit</a>
                     </tr>
                   <?php } ?>
                 </table>
