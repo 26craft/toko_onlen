@@ -40,3 +40,8 @@
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
 }
+.footer{
+  text-align: center;
+  background-color: #000000;
+  color: #eeeeee;
+}
